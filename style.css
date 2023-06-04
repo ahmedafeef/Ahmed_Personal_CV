@@ -1,0 +1,19 @@
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  background-color: black;
+  border-style: none;
+  height: 2px;
+  width: 100%;
+}
+img{
+  height: 200px;
+}
+h1 {
+  color: #088395;
+  font-family: Tahoma, Verdana, sans-serif;
+}
+h3 {
+  color: #66BFBF;
+}
